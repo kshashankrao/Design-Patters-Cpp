@@ -1,4 +1,4 @@
-# Builder
+# Builder (Construction)
 
 ## Gamma categorization
 
@@ -140,4 +140,4 @@ int main()
 
 ### Comparison
 
-![alt text](comparison.png)
+![alt text](images/comparison.png)

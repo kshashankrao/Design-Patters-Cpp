@@ -1,4 +1,4 @@
-# Factory 
+# Factory (Construction)
 
 ## Introduction
 Creating objects directly with constructors can sometimes be limiting:
